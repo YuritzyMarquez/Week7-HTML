@@ -1,0 +1,29 @@
+.backgroundOfpage{
+    background-color: black;
+}
+
+.informationColor {
+    color: white;
+}
+
+.informationHeaders{
+    color: aqua;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+.moveImageRight{
+    float: right;
+}
+
+img {
+    border: 6px solid aqua;
+}
+
+h1{
+    border: 6px solid aqua;
+}
+

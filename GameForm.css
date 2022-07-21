@@ -1,0 +1,199 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+#backgroundColor{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#moveimagetothecenter{
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    left: 340px;
+}
+
+#moveimagetotheright{
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    left: 700px;
+}
+
+#letterstotheright{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 400px;
+}
+
+#letterstothecenter{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 500px;
+}
+
+#letterstothefarright{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 1200px;
+}
+
+#letterstothefarright2{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 1000px;
+}
+
+.bigfontsize{
+    font-size: 30px;
+}
+
+.smallerfontsize{
+    font-size: 20px;
+}
+
+img {
+    border: 4px solid purple;
+}
+
+.paragraph{
+    font-family: monospace;
+    font-size: 18px;
+}
+
+#descriptionup{
+    font-size: 18px;
+    font-family: monospace;
+    position: relative;
+    left: 800px;
+    bottom: 350px;
+}
+
+.paragraph2{
+    font-family: monospace;
+    font-size: 18px;
+}
+
+#descriptionup2{
+    font-size: 18px;
+    font-family: monospace;
+    position: relative;
+    bottom: 500px;
+}
+
+#moveimagetotheright2{
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    left: 700px;
+    top: -370px;
+}
+
+#letterstothefarright3{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 1000px;
+    top: -370px;
+}
+
+#descriptionup3{
+    font-size: 18px;
+    font-family: monospace;
+    position: relative;
+    top: -820px;
+}
+
+#moveimagetotheright3{
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    top: -630px;
+}
+
+#letterstotheright2{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 400px;
+    top: -630px;
+}
+
+#descriptionup4{
+    font-size: 18px;
+    font-family: monospace;
+    position: relative;
+    top: -1075px;
+    left: 780px;
+}
+
+#moveimagetothecenter2{
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    left: 340px;
+    top: -900px;
+}
+
+#letterstothecenter2{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 550px;
+    top: -900px;
+}
+
+#moveimagetotheright4{
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    left: 700px;
+    top: -1300px;
+}
+
+#letterstotheright4{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 1000px;
+    top: -730px;
+}
+
+#descriptionup5{
+    font-size: 18px;
+    font-family: monospace;
+    position: relative;
+    top: -1400px;
+}
+
+
+#letterstotheright3{
+    font-size: 30px;
+    font-family: monospace;
+    position: relative;
+    left: 1000px;
+    top: -1300px;
+}
+
+#descriptionup6{
+    font-size: 18px;
+    font-family: monospace;
+    position: relative;
+    top: -1735px;
+}
+
+#linksColors{
+    color: black;
+}
