@@ -1,0 +1,75 @@
+.body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+p{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    border-color: black;
+    font-family: cursive;
+}
+
+table{
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    height: 150px;
+    background-color: lightyellow;
+    border-collapse: collapse;
+}
+
+th, td{
+    text-align: center;
+    padding: 2%; 
+}
+
+th{
+    border-style: solid;
+    border-color: magenta;
+    font-size: 20px;
+
+    
+}
+
+#graphHeader{
+    background-color: magenta;
+}
+
+.bigFont{
+    font-size: 40px;
+}
+
+.bigFont2{
+    font-size: 30px;
+    position: relative;
+    top: -30px;
+}
+
+.linkSize {
+    color: black;
+    font-size: 25px;
+    position: relative;
+    top: -45px;
+}
+
+.headerReposition{
+    position: relative;
+    top: -100px;
+}
+
+tr:nth-child(even){
+    background-color: #fffacd;
+}
+
+tr:hover{
+    background-color: yellow;
+}
+
+
+
+
